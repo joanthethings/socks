@@ -33,7 +33,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ip": "^1.1.2",
+    "ip": "1.1.2",
     "smart-buffer": "^1.0.4"
   }
 }
